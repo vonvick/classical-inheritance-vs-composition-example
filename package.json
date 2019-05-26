@@ -1,0 +1,19 @@
+{
+  "name": "oop-javascript",
+  "version": "1.0.0",
+  "description": "A small demonstration of OOP(Object Oriented Programming) in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OOP",
+    "javascript",
+    "classes"
+  ],
+  "author": "Victor Nwaiwu",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
